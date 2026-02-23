@@ -1,7 +1,5 @@
 ## Hi, I'm Shreyanka 👋  
 
-Software Developer and Computer Science Engineering graduate with a strong interest in Backend, DevOps, and Data Analysis. I enjoy building scalable web applications, working with APIs, and creating dashboards that turn data into meaningful insights.
-
 ### 💼 Current Role
 **Specialist Programmerr**  
 
