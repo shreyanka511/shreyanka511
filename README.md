@@ -1,12 +1,28 @@
-## Hello ! I am Shreyanka 👋
+## Hi, I'm Shreyanka 👋  
 
-💻 Specialist Programmer at Infosys
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Software Developer and Computer Science Engineering graduate with a strong interest in Backend, DevOps, and Data Analysis. I enjoy building scalable web applications, working with APIs, and creating dashboards that turn data into meaningful insights.
+
+### 💼 Current Role
+**Specialist Programmerr**  
+
+
+### 🎓 Education
+**Bachelor of Engineering (B.E.) in Computer Science Engineering**   
+
+### 🚀 Tech Stack
+- React  
+- Go  
+- TypeScript  
+- Docker  
+- PostgreSQL  
+- C++  
+- Git  
+
+### 🌱 Current Interest
+- DevOps  
+- Data Analysis 
+- Backend development with Go  
+
+### 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/shreyanka-padennavar-a6445a219  
+   
