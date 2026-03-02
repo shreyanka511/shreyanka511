@@ -6,15 +6,7 @@
 
 ### 🎓 Education
 **Bachelor of Engineering (B.E.) in Computer Science Engineering**   
-
-### 🚀 Tech Stack
-- React  
-- Go  
-- TypeScript  
-- Docker  
-- PostgreSQL  
-- C++  
-- Git  
+ 
 
 ### 🌱 Current Interest
 - DevOps  
