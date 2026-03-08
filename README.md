@@ -1,7 +1,7 @@
 ## Hi, I'm Shreyanka 👋  
 
 ### 💼 Current Role
-**Specialist Programmer**  
+**Specialist Programmer(SDE)**  
 
 
 ### 🎓 Education
